@@ -1,2 +1,15 @@
 resources/js/components/ui/*
 resources/views/mail/*
+public
+app
+vendor
+routes
+resources
+node_modules
+database
+config
+bootstrap
+storage
+tests
+package.json
+package-lock.json
