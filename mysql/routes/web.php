@@ -32,3 +32,11 @@ Route::middleware(['auth'])->group(function () {
 });
 
 require __DIR__.'/auth.php';
+
+// other page rout
+
+
+Route::get('/test', function () {
+    return view('test');
+});
+
